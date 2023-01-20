@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Thalita</h1>
 <h3 align="center">A passionate FullStack developer from Brazil</h3>
